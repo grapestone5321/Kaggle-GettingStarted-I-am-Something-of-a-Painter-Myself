@@ -22,3 +22,12 @@ We highly recommend **Amy Jang's notebook** that goes over the basics of loading
 
 -----
 
+### Evaluation
+
+- MiFID
+- 
+Submissions are evaluated on MiFID (Memorization-informed Fréchet Inception Distance), which is a modification from Fréchet Inception Distance (FID).
+
+The smaller MiFID is, the better your generated images are.
+
+----
